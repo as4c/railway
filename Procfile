@@ -1,0 +1,1 @@
+web: gunicorn railway_test.wsgi --log-file -
